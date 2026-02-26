@@ -1,7 +1,6 @@
 # MATLAB Simulation Files
 # IoT Based Car Parking and Online Reservation System
-# Author: Collins Kipngetich Kirui
-# Institution: Technical University of Mombasa
+# Author: Collins Kirui
 
 ## Overview
 
